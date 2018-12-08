@@ -1,5 +1,5 @@
 ---
-title: "This is a test title with Atlantic Salmon (*Salmo salar*)"
+title: "This is a totally real title with Atlantic Salmon (*Salmo salar*)"
 author: |
   C. Mimeault^1^,
   M. Polinski^2^ and
